@@ -1,0 +1,25 @@
+{
+  "name": "j5ik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^0.10.0",
+    "tessel-io": "^0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martindavid/j5ik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martindavid/j5ik/issues"
+  },
+  "homepage": "https://github.com/martindavid/j5ik#readme"
+}
